@@ -1,5 +1,3 @@
-//Jahnava Baltz
-//COP2000.0M1
 //Displaying the percentage of demographic information based on the user's input about student enrollment.
 
 #include <iostream>
